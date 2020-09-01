@@ -17,10 +17,10 @@
 }
 
 .home-page-head{
-	font-size: 33px;
+	font-size: 30px;
 	font-family: 'Alatsi';
 	color: #ff6600;
-	margin-top: 80px;
+	margin-top: 50px;
 	margin-bottom: 10px;
 }
 .hr{
@@ -29,7 +29,9 @@
 	opacity: 0.5;
 	margin-top: -15px;
 }
-
+.home-page-text{
+	font-size: 12px;
+}
 /*Menu page*/
 
 /*Menu Box*/
